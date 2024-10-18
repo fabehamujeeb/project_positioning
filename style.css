@@ -1,0 +1,28 @@
+/*comments*/
+div.first {
+    border: 3px solid maroon;
+    position: static;
+}
+
+div.second {
+    border: 3px solid maroon;
+    position: relative bottom;
+}
+
+div.third {
+    border: 3px solid gray;
+    position: fixed;
+}
+
+div.fourth {
+    border: 3px solid maroon;
+    position: sticky;
+}
+
+div.fifth {
+    border: 3px solid maroon;
+    position: absolute;
+}
+body {
+    background-image: url(b6.jpg);
+}
